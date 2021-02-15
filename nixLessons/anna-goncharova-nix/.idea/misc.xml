@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/anna-goncharova/12_io/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/02_oop/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/Logging/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/04_dates/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/14_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/20_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/03_strings/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/09_threads/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/11_streams/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/13_logging/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/23_angular/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/10_generics/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/17_sql_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/01_base_types/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/05_exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/21_javascript/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/06_collections/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/07_reflections/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/22_webservices/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/18_servlets_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/08_serialization/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/19_jpa_hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/anna-goncharova/00_code_convention/pom.xml" />
+        <option value="$PROJECT_DIR$/OOP2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" default="false" project-jdk-name="openjdk-15" project-jdk-type="JavaSDK" />
+</project>

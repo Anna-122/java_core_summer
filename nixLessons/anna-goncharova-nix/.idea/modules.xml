@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/00_code_convention/00_code_convention.iml" filepath="$PROJECT_DIR$/anna-goncharova/00_code_convention/00_code_convention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/23_angular/01_base_types.iml" filepath="$PROJECT_DIR$/anna-goncharova/23_angular/01_base_types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/01_base_types/01_base_types (1).iml" filepath="$PROJECT_DIR$/anna-goncharova/01_base_types/01_base_types (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/02_oop/02_oop.iml" filepath="$PROJECT_DIR$/anna-goncharova/02_oop/02_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/03_strings/03_strings.iml" filepath="$PROJECT_DIR$/anna-goncharova/03_strings/03_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/04_dates/04_dates.iml" filepath="$PROJECT_DIR$/anna-goncharova/04_dates/04_dates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/05_exceptions/05_exceptions.iml" filepath="$PROJECT_DIR$/anna-goncharova/05_exceptions/05_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/06_collections/06_collections.iml" filepath="$PROJECT_DIR$/anna-goncharova/06_collections/06_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/07_reflections/07_reflections.iml" filepath="$PROJECT_DIR$/anna-goncharova/07_reflections/07_reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/08_serialization/08_serialization.iml" filepath="$PROJECT_DIR$/anna-goncharova/08_serialization/08_serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/09_threads/09_threads.iml" filepath="$PROJECT_DIR$/anna-goncharova/09_threads/09_threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/10_generics/10_generics.iml" filepath="$PROJECT_DIR$/anna-goncharova/10_generics/10_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/11_streams/11_streams.iml" filepath="$PROJECT_DIR$/anna-goncharova/11_streams/11_streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/12_io/12_io.iml" filepath="$PROJECT_DIR$/anna-goncharova/12_io/12_io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/13_logging/13_logging.iml" filepath="$PROJECT_DIR$/anna-goncharova/13_logging/13_logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/14_junit/14_junit.iml" filepath="$PROJECT_DIR$/anna-goncharova/14_junit/14_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/17_sql_jdbc/17_sql_jdbc.iml" filepath="$PROJECT_DIR$/anna-goncharova/17_sql_jdbc/17_sql_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/18_servlets_jsp/18_servlets_jsp.iml" filepath="$PROJECT_DIR$/anna-goncharova/18_servlets_jsp/18_servlets_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/19_jpa_hibernate/19_jpa_hibernate.iml" filepath="$PROJECT_DIR$/anna-goncharova/19_jpa_hibernate/19_jpa_hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/20_spring/20_spring.iml" filepath="$PROJECT_DIR$/anna-goncharova/20_spring/20_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/21_javascript/21_javascript.iml" filepath="$PROJECT_DIR$/anna-goncharova/21_javascript/21_javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/22_webservices/22_webservices.iml" filepath="$PROJECT_DIR$/anna-goncharova/22_webservices/22_webservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anna-goncharova/Logging/Logging.iml" filepath="$PROJECT_DIR$/anna-goncharova/Logging/Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP2/OOP2.iml" filepath="$PROJECT_DIR$/OOP2/OOP2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/anna-goncharova-nix.iml" filepath="$PROJECT_DIR$/.idea/anna-goncharova-nix.iml" />
+    </modules>
+  </component>
+</project>
